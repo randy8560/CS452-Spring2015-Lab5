@@ -1,1 +1,6 @@
-name, date, description
+Randy Parisi
+4/27/15
+
+Lab 5
+
+The idea was to do a static shadow under the 3d prysm thing.
